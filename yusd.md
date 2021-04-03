@@ -45,4 +45,4 @@
         吉特中心上的跳马.金融源代码
         当前策略：战略曲线Y选民代理
     常问问题
-        https://docs.yearn.finance/faq#vaults
+        https://docs.向往.金融/常问问题#跳马
