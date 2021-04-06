@@ -1,114 +1,114 @@
-# Writing Style Guide
+# 写作风格指南
 
-The Yearn Community Writing Style Guide summarizes the standards and best practices **writers** should follow when contributing to Yearn Documentation resources.
+向往社区写作风格指南总结了标准和最佳实践 **作家** 向“年度文档”资源捐款时应遵循的原则.
 
-## Writing Intent and Tone
+## 写作意图和语气
 
-Yearn Community materials should cater to readers who are unfamiliar with the Yearn ecosystem. Writers should also assume that their readers have tight schedules and short attention spans, as after all, farming is honest but hard work.
+怀念社区的资料应迎合对怀念生态系统不熟悉的读者.作家还应该假设他们的读者安排的时间紧，关注时间短，因为毕竟耕种是诚实但辛勤的工作.
 
-As such, Writers should focus on communicating concepts as clearly and succinctly as possible.
+因此，作家应集中精力尽可能清晰，简洁地交流概念.
 
-- Use simple language.
-- Use short, concise sentences.
-- Avoid unnecessary words.
-- Remain open and objective.
-- Provide examples when possible.
-- Provide examples to help explain concepts, but avoid overcomplicating them.
-  - Use math when necessary, but keep it simple and visually easy to understand.
-- Link to basic terms if necessary.
+- 使用简单的语言.
+- 使用简短的句子.
+- 避免不必要的话.
+- 保持开放和客观.
+- 尽可能提供示例.
+- 提供示例以帮助解释概念，但避免使它们过于复杂.
+  - 必要时使用数学，但请保持简单且直观易懂.
+- 必要时链接到基本术语.
 
-## Writer Guidelines
+## 作家指南
 
-### General Rules
+### 通用规则
 
-- Run all drafts through [Grammarly](https://app.grammarly.com/) regularly, and before final submissions.
-  - Grammarly will catch most spelling and grammatical errors.
-  - Copy rendered text into Grammarly and address any mistakes it flags.
-    - HackMD does not identify spelling and grammatical errors.
-    - Grammarly will miss errors if it’s given raw Markdown text.
-    - Be careful of copy and pasting code from Grammarly to VScode, Grammarly may mess with formatting.
+- 贯穿所有草稿 [文法](https://app.grammarly.com/) 定期且在最终提交之前.
+  - 文法将捕获大多数拼写和语法错误.
+  -将渲染的文本复制到语法中，并解决它所标记的任何错误
+    - HackMD无法识别拼写和语法错误.
+    - 如果给其语法为降价促销的原始文本，语法将错失任何错误.
+    - 注意将代码从文法复制并粘贴到VScode，文法可能会干扰格式化.
 
-**Please Note**
+**请注意**
 
-- When migrating to a new document (i.e., from Google Docs to HackMD):
-  - Leave a note in the old file.
-  - Provide a link to the latest version.
-- Do not blindly accept Grammarly suggestions.
-  - Review edits to make sure they make sense.
+- 迁移到新文档时（即从谷歌文档迁移到HackMD）:
+  - 在旧文件中留下笔记.
+  - 提供指向最新版本的链接.
+- 不要盲目接受语法建议.
+  - 审核编辑以确保它们有意义.
 
-**Use:**
+**采用:**
 
-- [Oxford commas](https://en.wikipedia.org/wiki/Serial_comma).
-- [Pluralized, gender-neutral pronouns](https://en.wikipedia.org/wiki/Singular_they).
-  - Use “they/their” instead of “he/she/his/hers.”
-  - **Examples:** “When they…” or “If users choose to X, then their…”
-- The `%` symbol. Do not spell out "percent."
-  - **Correct:** 15%
-  - **Incorrect:** 15 percent
-- Double quotes `" "` for phrases, quotes, etc.
-  - Do not use single `' '` quotes.
+- [牛津逗号](https://en.wikipedia.org/wiki/Serial_comma).
+- [多元，不分性别的代词](https://en.wikipedia.org/wiki/Singular_they).
+  - 使用“他们/他们”代替“他/她/他/她的”.”
+  - **例子:** “当他们……”或“如果用户选择X，则他们的……”
+- “％”符号.不要拼出“百分比."
+  - **正确的:** 15%
+  - **不正确的:** 15 percent
+- 双引号 `" "` 短语，引号等.
+  - 不要使用单 `' '` 引号.
 
-**Avoid:**
+**避免:**
 
-- [First-person language.](https://en.wikipedia.org/wiki/Grammatical_person)
-  - **Examples:** I, we, our, etc.
+- [第一人称语言.](https://en.wikipedia.org/wiki/Grammatical_person)
+  - **例子:** I, we, our, etc.
 - [Second-person language](https://en.wikipedia.org/wiki/Grammatical_person) (unless it is appropriate for a guide or action page).
-  - **Examples:** "You then..." or "Now you should..."
-- Exclamation points.
-- Footnotes.
-- References to deprecated names for Yearn Components.
-  - **Examples:** yyCRV or yUSD instead of yvCurve-Y (see: [Yearn Naming Conventions](../developers/naming-convention.md)).
-- Parentheses for stating additional information.
-  - **Incorrect:** Development Grants are larger sized ($5,000 to $50,000) grants aimed at individuals or teams building projects around vaults and the broader Yearn ecosystem.
-  - **Correct:** Development Grants are generally larger sized grants, ranging from $5,000 to $50,000, aimed at individuals or teams building projects around vaults and the broader Yearn ecosystem.
+  - **例子:** "然后是你..." 或者 "现在你应该..."
+- 感叹号.
+- 脚注.
+- 对向往组件不推荐使用的名称的引用.
+  - **例子:** yyCRV 或者 yUSD 代替 yvCurve-Y (看: [年度命名约定](../deve到lopers/naming-convention.md)).
+- 括号用于说明其他信息.
+  - **不正确的:** 发展补助金规模较大 ($5,000 到 $50,000) 针对个人或团队建立围绕金库和更广泛的向往生态系统的项目的赠款.
+  - **正确的:** 发展赠款通常是较大规模的赠款，范围从 $5,000 到 $50,000, 针对个人或团队围绕金库和更广泛的向往生态系统建设项目.
 
-### Abbreviations
+### 缩略语
 
-- Use parentheses to define abbreviated terms the first time they appear in a given document.
-  - **Example:** A Yearn Improvement Proposal (YIP) is a proposal framework to support new initiatives and to expand the scope of existing ones.
+- 使用括号定义缩写词首次出现在给定文档中.
+  - **例子:** 年度改进提案（ÿ一世P）是一个提案框架，用于支持新计划并扩大现有计划的范围.
 
-### Acronyms, Decades and Cases
+### 首字母缩写词，十年和案例
 
-Do not use apostrophes to pluralize acronyms or indicate decades. Add an "s" at the end.
+请勿使用撇号将首字母缩写词复数或表示数十年。最后加一个“ s”.
 
-#### Acronyms
+#### 缩略语
 
-- To make an acronym plural:
-  - **Correct:** YIPs
-  - **Incorrect:** YIP's
+- 使首字母缩略词复数:
+  - **正确的:** YIPs
+  - **不正确的:** YIP's
 
-#### Decades
+#### 几十年
 
 - To indicate a decade:
-  - **Correct:** 1990s
-  - **Incorrect:** 1990's
+  - **正确的:** 1990s
+  - **不正确的:** 1990's
 
-#### Capitalize
+#### 大写
 
-- Names and proper nouns.
-- Cities, countries, nationalities, and languages.
-- Terms with definitions provided by Yearn.
+- 名称和专有名词.
+- 城市，国家，民族和语言.
+- 由向往提供的具有定义的术语.
 
-#### Title Case
+#### 标题案例
 
-- **The [Title Case Converter](https://titlecaseconverter.com/) will keep titles consistent.**
-- Follow the New York Times standard.
-- Capitalize the first and last words, all nouns, pronouns, verbs, adverbs, and adjectives.
-- Lowercase all articles, conjunctions, and prepositions.
+- **这 [标题案例 转炉](https://titlecaseconverter.com/) 将保持标题一致.**
+- 遵循《纽约时报》标准.
+- 大写第一个和最后一个词，所有名词，代词，动词，副词和形容词.
+- 小写所有文章，连词和介词.
 
-### Currencies
+### 货币
 
-The examples below use dollars, but the same rules apply to all global currencies.
+以下示例使用美元，但相同的规则适用于所有全球货币.
 
-- Use lowercase except when writing "US Dollar.”
-- Use figures and the "\$" sign in all except casual references, or amounts without a figure.
-  - **Standard:** "The book costs \$4."
-  - **Casual:** "Please give me a dollar."
-- For amounts under \$1 million, follow this format:
-  - **Correct:** $4, $25, $500, $1,000, \$650,000.
-- For amounts over \$1 million, use the word, not numerals.
-  - **Correct:** "He is worth \$4 million."
-  - **Incorrect:** "He is worth \$4,000,000."
+- 使用小写字母，但写“美元”时除外.”
+- 除临时参考外，所有数字均使用数字和“ \ $”号或无数字的金额.
+  - **标准:** "书籍费用 \$4."
+  - **随意的:** "请给我一美元."
+- 对于金额 \100万美元，采用这种格式:
+  - **矫正:** $4, $25, $500, $1,000, \$650,000.
+- 对于超过 \$1 million, 使用单词，而不是数字.
+  - **正确的:** "他值得 \$4 million."
+  - **不正确的:** "他值得 \$4,000,000."
 
 ### Naming Conventions
 
